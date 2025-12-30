@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+scikit-learn
+google-play-scraper
+wordcloud
+imbalanced-learn
